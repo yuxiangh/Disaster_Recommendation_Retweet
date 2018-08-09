@@ -8,7 +8,7 @@ In disaster Prediction System, Retweet messages are the important messages we ne
 
 # Stratigies     
 
-For each specific topics, like food,water, evacuation. find the twitter messages has high retweet messages is super important because it reflects peoples' need. 
+For each specific topics, like food, water and evacuation. we will find the top 10 twitter messages which has the highest retweet numbers. In this way, we can know what's the most important things happening in each topics. 
 
 
 
